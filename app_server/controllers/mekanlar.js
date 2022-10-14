@@ -7,7 +7,7 @@ const anaSayfa =  function(req, res, next) {
   }
 
 const mekanBilgisi =  function(req, res, next) {
-  res.render('Mekanbilgisi', { title: 'Mekanbilgisi' });
+  res.render('mekanBilgisi', { title: 'Mekan Bilgisi' });
   }
 
 const yorumEkle =  function(req, res) {
