@@ -28,7 +28,7 @@ var mekanSema = new mongoose.Schema(
         saatler: [saatSema],
         yorumlar: [yorumSema],
     }
-);
+); 
  
 
 mongoose.model("mekan", mekanSema, "mekanlar")
