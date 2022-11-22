@@ -8,12 +8,12 @@ mongoose.connect(dbURI);
 function kapat(msg, callback)
 {
 mongoose.connection.close(
-    function()
+    function()  
     {
         console.log(msg)
         callback();
     }
-);
+); 
 }
 process.on("SIGINT", function()
 {
