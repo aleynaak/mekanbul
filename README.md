@@ -11,7 +11,7 @@
 
 
 # Odev6 
-1. [Mekanları Listele](./images/mekanlistele.png)
+1. Mekanları Listele (./images/mekanlistele.png)
 2. [Mekan Getir](./images/mekangetir.png)
 3. [Mekan Ekle](./images/mekanekle.png)
 4. [Mekan Güncelle](./images/mekanguncelle.png)
