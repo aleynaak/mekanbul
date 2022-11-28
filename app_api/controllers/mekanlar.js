@@ -102,7 +102,7 @@ const mekanEkle = function (req, res) {
         }
         else
         {
-            cevapOlustur(res,200,mekan)
+            cevapOlustur(res,201,mekan)
         }
     }
     
