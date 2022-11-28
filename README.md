@@ -10,13 +10,10 @@
 ![Bir Mekana Ait Belirli Bir Yorumu Getir](./images/yorumgetirodev5.png)
 
 
-# Odev6 
-1. Mekanları Listele (./images/mekanlistele.png)
-2. [Mekan Getir](./images/mekangetir.png)
-3. [Mekan Ekle](./images/mekanekle.png)
-4. [Mekan Güncelle](./images/mekanguncelle.png)
-5. [Yorum Listele](./images/yorumgetir.png)
-6. [Yorum Ekle](./images/yorumekle.png)
-7. [Yorum Güncelle](./images/yorumguncelle.png)
-8. [Yorum Sil](./images/yorumsil.png)
-9. [Mekan Sil](./images/mekansil.png)
+# Odev6 Api Testleri
+
+1. Thunder API
+![Thunder API ile Test](./images/image1.png)
+
+2. test.js
+![test.js ile Test](./images/image2.png)
