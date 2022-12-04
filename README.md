@@ -1,3 +1,8 @@
+# Ödev 7 İçin Replit Adresim
+[https://mekanbul.aleynaakv.repl.co/?enlem=37&boylam=32](https://mekanbul.aleynaakv.repl.co/?enlem=37&boylam=32)
+
+
+
 # MekanBul REST API Adresleri
 
 1. [Girilen Konum Civarındaki Mekanları Listele](https://mekanbul5.aleynaakv.repl.co/api/mekanlar?enlem=37.8&boylam=35.4)
