@@ -1,5 +1,5 @@
-# Ödev 7 İçin Replit Adresim
-[https://mekanbul.aleynaakv.repl.co/?enlem=37&boylam=32](https://mekanbul.aleynaakv.repl.co/?enlem=37&boylam=32)
+# Ödev 8 İçin Replit Adresim
+[https://mekanbul.aleynaakv.repl.co/?enlem=37&boylam=30](https://mekanbul.aleynaakv.repl.co/?enlem=37&boylam=30)
 
 
 
