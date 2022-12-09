@@ -3,10 +3,10 @@ include fonksiyonlar/yildiz
 block content
   #banner.page-header 
     .row 
-     .col-lg-6 
-      h1 
-        | #{sayfaBaslik.siteAd}
-        small &nbsp; #{sayfaBaslik.slogan}
+      .col-lg-6 
+        h1 
+          | #{sayfaBaslik.siteAd}
+          small &nbsp; #{sayfaBaslik.slogan}
   .row
   .error=mesaj
     each mekan in mekanlar
